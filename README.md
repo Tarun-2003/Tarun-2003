@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I’m a Full-Stack Software Engineer based in Dublin with a Master’s in Electronics & Computer Engineering from UCD. I build production-ready web applications across frontend, backend, and deployment using React, TypeScript, Node.js, and PostgreSQL.
+
+I’ve developed scalable REST APIs, implemented authentication systems, containerized services with Docker, and optimized performance in real-world projects — including a power-grid visualization platform modeling 500+ nodes.
+
+Currently seeking a graduate/junior software engineering role where I can contribute to building reliable, scalable systems.
+
 <!--
 **Tarun-2003/Tarun-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
